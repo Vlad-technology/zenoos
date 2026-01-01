@@ -1,0 +1,14 @@
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\bin\Debug\net9.0\soobg.exe
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\bin\Debug\net9.0\soobg.deps.json
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\bin\Debug\net9.0\soobg.runtimeconfig.json
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\bin\Debug\net9.0\soobg.dll
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\bin\Debug\net9.0\soobg.pdb
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\obj\Debug\net9.0\soobg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\obj\Debug\net9.0\soobg.AssemblyInfoInputs.cache
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\obj\Debug\net9.0\soobg.AssemblyInfo.cs
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\obj\Debug\net9.0\soobg.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\obj\Debug\net9.0\soobg.dll
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\obj\Debug\net9.0\refint\soobg.dll
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\obj\Debug\net9.0\soobg.pdb
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\obj\Debug\net9.0\soobg.genruntimeconfig.cache
+C:\Users\Ольга\CLionProjects\zeno os\fully edition\consept\soobg\soobg\obj\Debug\net9.0\ref\soobg.dll
